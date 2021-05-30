@@ -1,0 +1,42 @@
+.Con{
+  background-color: #2B3856;
+  text-align: center;
+}
+.title{
+  font-family:"Pattaya";
+  font-size: 8rem;
+  color: #7fffd4;
+  padding-top: 0%;
+  margin-top: 3%;
+  text-shadow: 4px 0px black;
+  padding-bottom: 3%;
+}
+h2{
+  font-size: 1rem;
+}
+.names{
+  font-family: "Open Sans", "sans-serif";
+  font size: 0rem;
+  color: #7fffd4;
+  padding-bottom: 5%;
+}
+.p1{
+  padding: 0% 5%;
+  margin-left: 30%;
+}
+.p2{
+  padding: 0% 5%;
+  margin-right: 30%;
+}
+.img1,.img2{
+  width:70%;
+}
+.footer{
+  font-family: 'Shadows Into Light', cursive;
+  color: #eeeeee;
+  padding-top: 3%;
+  padding-bottom: 0%;
+}
+footer{
+  padding-top: 0%;
+}
